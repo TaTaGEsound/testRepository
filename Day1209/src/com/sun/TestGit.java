@@ -5,4 +5,8 @@ public class TestGit {
 	void addUser() {
 		
 	}
+	
+	void updateUser() {
+		
+	}
 }
